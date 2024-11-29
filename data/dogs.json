@@ -1,0 +1,47 @@
+{
+  "name":"Dogs",
+  "data":[
+    { 
+      "species":"Dog",
+      "name": "Golden Retriever",
+      "size": 2.0,
+      "location": "United States",
+      "image":"data/images/dogs/goldenRetriever.webp"
+    },
+    {
+      "species":"Dog",
+      "name": "German Shepherd",
+      "size": 2.2,
+      "location": "Germany",
+      "image":"data/images/dogs/dhruvRathee.jpeg"
+    },
+    {
+      "species":"Dog",
+      "name": "Beagle",
+      "size": 1.3,
+      "location": "United Kingdom",
+      "image":"data/images/dogs/beagle.jpeg"
+    },
+    {
+      "species":"Dog",
+      "name": "Bulldog",
+      "size": 1.5,
+      "location": "France",
+      "image":"data/images/dogs/bulldog.jpeg"
+    },
+    {
+      "species":"Dog",
+      "name": "Poodle",
+      "size": 1.6,
+      "location":"France",
+      "image":"data/images/dogs/poodle.jpeg"
+    },
+    {
+      "species":"Dog",
+      "name": "Siberian Husky",
+      "size": 2.0,
+      "location": "Russia",
+      "image":"data/images/dogs/huskey.webp"
+    }
+  ]
+}

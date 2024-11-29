@@ -1,0 +1,47 @@
+{
+  "name":"Big Fish",
+  "data":[
+    { 
+      "species":"Big Fish",
+      "name": "Great White Shark",
+      "size": 20,
+      "location": "Pacific Ocean",
+      "image":"data/images/bigFish/greateWhiteShark.webp"
+    },
+    {
+      "species":"Big Fish",
+      "name": "Whale Shark",
+      "size": 40,
+      "location": "Indian Ocean",
+      "image":"data/images/bigFish/whaleShark.jpeg"
+    },
+    {
+      "species":"Big Fish",
+      "name": "Atlantic Bluefin Tuna",
+      "size": 15,
+      "location": "Atlantic Ocean",
+      "image":"data/images/bigFish/tuna.webp"
+    },
+    {
+      "species":"Big Fish",
+      "name": "Beluga Sturgeon",
+      "size": 24,
+      "location": "Caspian Sea",
+      "image":"data/images/bigFish/sturgeon.webp"
+    },
+    {
+      "species":"Big Fish",
+      "name": "Giant Grouper",
+      "size": 12,
+      "location": "Coral Sea",
+      "image":"data/images/bigFish/grouper.webp"
+    },
+    {
+      "species":"Big Fish",
+      "name": "Goliath Tigerfish",
+      "size": 8,
+      "location": "Congo River",
+      "image":"data/images/bigFish/tigerFish.webp"
+    }
+  ]
+}

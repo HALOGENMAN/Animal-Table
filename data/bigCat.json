@@ -1,0 +1,40 @@
+{
+  "name":"Big Cat",
+  "data":[
+    { 
+      "species":"Big Cats",
+      "name": "Lion",
+      "size": 6.5,
+      "location": "Africa",
+      "image":"data/images/bigCat/lion.jpeg"
+    },
+    {
+      "species":"Big Cats",
+      "name": "Tiger",
+      "size": 9.0,
+      "location": "India",
+      "image":"data/images/bigCat/tiger.jpeg"
+    },
+    {
+      "species":"Big Cats",
+      "name": "Leopard",
+      "size": 6.0,
+      "location": "Africa",
+      "image":"data/images/bigCat/leopard.jpeg"
+    },
+    {
+      "species":"Big Cats",
+      "name": "Cheetah",
+      "size": 7.0,
+      "location":"Africa",
+      "image":"data/images/bigCat/cheeta.jpeg"
+    },
+    {
+      "species":"Big Cats",
+      "name": "Jaguar",
+      "size": 7.5,
+      "location": "South America",
+      "image":"data/images/bigCat/jaguar.jpeg"
+    }
+  ]
+}
